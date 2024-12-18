@@ -34,6 +34,10 @@ Dữ liệu công thức được lấy từ **API đáng tin cậy** và luôn 
    cd food-recipe
 2. **Cài đặt các gói cần thiết**
    npm i
+   npm i vue-router@4
+   npm i vuex@4
+   npm install -D tailwindcss postcss autoprefixer
+   npm install -S axios
 3. **Chạy ứng dụng**
    npm run dev
 4. **Mở trình duyệt và truy cập**

@@ -1,0 +1,5 @@
+npm install
+npm i vue-router@4
+npm i vuex@4
+npm install -D tailwindcss postcss autoprefixer
+npm install -S axios
